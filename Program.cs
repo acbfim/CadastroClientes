@@ -1,5 +1,7 @@
 ﻿using CadastroClientes.Data;
 
+Console.WriteLine("Iniciei");
+
 Repository.AddCustomer("Alex",29,"alex_email@gmail.com");
 Repository.AddCustomer("Joao",17,"Joao_email@gmail.com");
 Repository.AddCustomer("Maria",18,"Maria_email@gmail.com");
